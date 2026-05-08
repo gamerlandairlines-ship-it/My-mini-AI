@@ -1,0 +1,74 @@
+[
+    {
+        "pregunta": "Hola",
+        "respuesta": "¡Hola! ¿En qué puedo ayudarte?"
+    },
+    {
+        "pregunta": "cuanto es 1+1?",
+        "respuesta": "No necesito internet para esto, pero todavía soy muy básica."
+    },
+    {
+        "pregunta": "que tal estás",
+        "respuesta": "No necesito internet para esto, pero todavía soy muy básica."
+    },
+    {
+        "pregunta": "source /home/gonza/vscode/proyectos/.venv/bin/activate",
+        "respuesta": "No necesito internet para esto, pero todavía soy muy básica."
+    },
+    {
+        "pregunta": "Hola",
+        "respuesta": "¡Hola! ¿En qué puedo ayudarte?"
+    },
+    {
+        "pregunta": "que tal estás?",
+        "respuesta": "No necesito internet para esto, pero todavía soy muy básica."
+    },
+    {
+        "pregunta": "Chau",
+        "respuesta": "¡Hasta luego! Fue un placer conversar."
+    },
+    {
+        "pregunta": "cuanto es 1+1?",
+        "respuesta": "No necesito internet para esto, pero todavía soy muy básica."
+    },
+    {
+        "pregunta": "Hola",
+        "respuesta": "¡Hola! ¿En qué puedo ayudarte?"
+    },
+    {
+        "pregunta": "Cuanto es 1+1?",
+        "respuesta": "No necesito internet para esto, pero todavía soy muy básica."
+    },
+    {
+        "pregunta": "CUANTO ES 1+1?",
+        "respuesta": "No necesito internet para esto, pero todavía soy muy básica."
+    },
+    {
+        "pregunta": "!+1",
+        "respuesta": "Esa pregunta es más compleja. Déjame buscar en internet... 🌐"
+    },
+    {
+        "pregunta": "1+1",
+        "respuesta": "El resultado es: 2"
+    },
+    {
+        "pregunta": "9x2",
+        "respuesta": "El resultado es: 18"
+    },
+    {
+        "pregunta": "raíz cuadrada de 25",
+        "respuesta": "La raíz cuadrada de 25.0 es 5"
+    },
+    {
+        "pregunta": "que es linux mint?",
+        "respuesta": "Esa pregunta es más compleja. Déjame buscar en internet... 🌐"
+    },
+    {
+        "pregunta": "quien era linus torvals",
+        "respuesta": "Lo siento, no encontré información relevante en la web."
+    },
+    {
+        "pregunta": "source /home/gonza/vscode/proyectos/.venv/bin/activate",
+        "respuesta": "Esa pregunta es más compleja. Déjame buscar en internet... 🌐"
+    }
+]
